@@ -1,3 +1,4 @@
+#drop empty items from dictionary
 user_preferences = {
     "timezone": "GMT",
     "language": "English",
